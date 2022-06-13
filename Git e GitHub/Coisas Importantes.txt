@@ -1,0 +1,38 @@
+Comandos Essenciais
+
+Listas pastas em um diretorio == LS ou DIR
+
+Cirar pastas == mkdir "nome do arquivo"
+
+Navegar entre pastas == cd 
+
+Voltar um nivel == cd ..
+
+Limpar a tela == ctrl + L
+
+Exibir Pastas ocultas == ls -a
+
+Mover arquivos == mv "nome arquivo' ./ "nome do outro lugar"
+
+Iniciar o Git == git init
+
+Iniciar o versionamento == git add *  ------ *pega tudo*
+
+Adicionar ao staged == git add "nome arquivo"
+
+Criar um commit == git commit -m "comentario relevante"
+
+Saber se sua "working tree" está limpa == git status
+
+Criar arquivo txt == echo > "nome"
+
+Adicionar repositorio remoto == git remote add origin "link"
+
+Mostrar o direcionamento == git remote -v
+
+Enviar modificaçoes == git push origin "branche"
+
+baixar a modificaçao do repositorio == git pull origin
+
+
+-------------------------------------
